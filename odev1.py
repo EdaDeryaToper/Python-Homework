@@ -24,7 +24,7 @@ clickButton= True #bool
 
 
 #Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.
-#"Bitir ve dvam et" buton tıklanmasına göre Eğitim tamamlanma yüzdesi:
+#"Bitir ve devam et" buton tıklanmasına göre Eğitim tamamlanma yüzdesi:
 egitimDersSayisi=20
 for i in range(egitimDersSayisi):
     if(clickButton):
